@@ -1,0 +1,626 @@
+[
+  {
+    "time": "2025-06-15 22:30:02",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=483.23\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-15 22:32:25",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=313.49\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "error": "invalid_format",
+      "raw": "```json\n{\"action\": \"none\", \"confidence\": 0.5}\n```"
+    }
+  },
+  {
+    "time": "2025-06-15 22:35:18",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=36.22\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 00:01:34",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=82.97\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 00:04:06",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=457.53\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 00:07:05",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=181.72\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 00:08:09",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=337.33\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 00:13:11",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=337.33\n???: O=?, H=?, L=?, C=?, Vol=356.09\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 00:18:13",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=337.33\n???: O=?, H=?, L=?, C=?, Vol=356.09\n???: O=?, H=?, L=?, C=?, Vol=470.64\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 00:23:16",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=337.33\n???: O=?, H=?, L=?, C=?, Vol=356.09\n???: O=?, H=?, L=?, C=?, Vol=470.64\n???: O=?, H=?, L=?, C=?, Vol=209.35\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 00:28:19",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=337.33\n???: O=?, H=?, L=?, C=?, Vol=356.09\n???: O=?, H=?, L=?, C=?, Vol=470.64\n???: O=?, H=?, L=?, C=?, Vol=209.35\n???: O=?, H=?, L=?, C=?, Vol=175.6\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 00:33:20",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=337.33\n???: O=?, H=?, L=?, C=?, Vol=356.09\n???: O=?, H=?, L=?, C=?, Vol=470.64\n???: O=?, H=?, L=?, C=?, Vol=209.35\n???: O=?, H=?, L=?, C=?, Vol=175.6\n???: O=?, H=?, L=?, C=?, Vol=200.75\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 00:38:22",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=337.33\n???: O=?, H=?, L=?, C=?, Vol=356.09\n???: O=?, H=?, L=?, C=?, Vol=470.64\n???: O=?, H=?, L=?, C=?, Vol=209.35\n???: O=?, H=?, L=?, C=?, Vol=175.6\n???: O=?, H=?, L=?, C=?, Vol=200.75\n???: O=?, H=?, L=?, C=?, Vol=270.3\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 00:43:23",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=337.33\n???: O=?, H=?, L=?, C=?, Vol=356.09\n???: O=?, H=?, L=?, C=?, Vol=470.64\n???: O=?, H=?, L=?, C=?, Vol=209.35\n???: O=?, H=?, L=?, C=?, Vol=175.6\n???: O=?, H=?, L=?, C=?, Vol=200.75\n???: O=?, H=?, L=?, C=?, Vol=270.3\n???: O=?, H=?, L=?, C=?, Vol=335.48\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 00:48:26",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=337.33\n???: O=?, H=?, L=?, C=?, Vol=356.09\n???: O=?, H=?, L=?, C=?, Vol=470.64\n???: O=?, H=?, L=?, C=?, Vol=209.35\n???: O=?, H=?, L=?, C=?, Vol=175.6\n???: O=?, H=?, L=?, C=?, Vol=200.75\n???: O=?, H=?, L=?, C=?, Vol=270.3\n???: O=?, H=?, L=?, C=?, Vol=335.48\n???: O=?, H=?, L=?, C=?, Vol=1684.39\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 00:53:28",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=337.33\n???: O=?, H=?, L=?, C=?, Vol=356.09\n???: O=?, H=?, L=?, C=?, Vol=470.64\n???: O=?, H=?, L=?, C=?, Vol=209.35\n???: O=?, H=?, L=?, C=?, Vol=175.6\n???: O=?, H=?, L=?, C=?, Vol=200.75\n???: O=?, H=?, L=?, C=?, Vol=270.3\n???: O=?, H=?, L=?, C=?, Vol=335.48\n???: O=?, H=?, L=?, C=?, Vol=1684.39\n???: O=?, H=?, L=?, C=?, Vol=254.9\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 00:58:30",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=356.09\n???: O=?, H=?, L=?, C=?, Vol=470.64\n???: O=?, H=?, L=?, C=?, Vol=209.35\n???: O=?, H=?, L=?, C=?, Vol=175.6\n???: O=?, H=?, L=?, C=?, Vol=200.75\n???: O=?, H=?, L=?, C=?, Vol=270.3\n???: O=?, H=?, L=?, C=?, Vol=335.48\n???: O=?, H=?, L=?, C=?, Vol=1684.39\n???: O=?, H=?, L=?, C=?, Vol=254.9\n???: O=?, H=?, L=?, C=?, Vol=198.78\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 01:03:32",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=470.64\n???: O=?, H=?, L=?, C=?, Vol=209.35\n???: O=?, H=?, L=?, C=?, Vol=175.6\n???: O=?, H=?, L=?, C=?, Vol=200.75\n???: O=?, H=?, L=?, C=?, Vol=270.3\n???: O=?, H=?, L=?, C=?, Vol=335.48\n???: O=?, H=?, L=?, C=?, Vol=1684.39\n???: O=?, H=?, L=?, C=?, Vol=254.9\n???: O=?, H=?, L=?, C=?, Vol=198.78\n???: O=?, H=?, L=?, C=?, Vol=406.93\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 01:08:34",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=209.35\n???: O=?, H=?, L=?, C=?, Vol=175.6\n???: O=?, H=?, L=?, C=?, Vol=200.75\n???: O=?, H=?, L=?, C=?, Vol=270.3\n???: O=?, H=?, L=?, C=?, Vol=335.48\n???: O=?, H=?, L=?, C=?, Vol=1684.39\n???: O=?, H=?, L=?, C=?, Vol=254.9\n???: O=?, H=?, L=?, C=?, Vol=198.78\n???: O=?, H=?, L=?, C=?, Vol=406.93\n???: O=?, H=?, L=?, C=?, Vol=846.6\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 01:13:36",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=175.6\n???: O=?, H=?, L=?, C=?, Vol=200.75\n???: O=?, H=?, L=?, C=?, Vol=270.3\n???: O=?, H=?, L=?, C=?, Vol=335.48\n???: O=?, H=?, L=?, C=?, Vol=1684.39\n???: O=?, H=?, L=?, C=?, Vol=254.9\n???: O=?, H=?, L=?, C=?, Vol=198.78\n???: O=?, H=?, L=?, C=?, Vol=406.93\n???: O=?, H=?, L=?, C=?, Vol=846.6\n???: O=?, H=?, L=?, C=?, Vol=298.36\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 01:18:38",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=200.75\n???: O=?, H=?, L=?, C=?, Vol=270.3\n???: O=?, H=?, L=?, C=?, Vol=335.48\n???: O=?, H=?, L=?, C=?, Vol=1684.39\n???: O=?, H=?, L=?, C=?, Vol=254.9\n???: O=?, H=?, L=?, C=?, Vol=198.78\n???: O=?, H=?, L=?, C=?, Vol=406.93\n???: O=?, H=?, L=?, C=?, Vol=846.6\n???: O=?, H=?, L=?, C=?, Vol=298.36\n???: O=?, H=?, L=?, C=?, Vol=103.02\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 01:23:40",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=270.3\n???: O=?, H=?, L=?, C=?, Vol=335.48\n???: O=?, H=?, L=?, C=?, Vol=1684.39\n???: O=?, H=?, L=?, C=?, Vol=254.9\n???: O=?, H=?, L=?, C=?, Vol=198.78\n???: O=?, H=?, L=?, C=?, Vol=406.93\n???: O=?, H=?, L=?, C=?, Vol=846.6\n???: O=?, H=?, L=?, C=?, Vol=298.36\n???: O=?, H=?, L=?, C=?, Vol=103.02\n???: O=?, H=?, L=?, C=?, Vol=186.89\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 01:28:42",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=335.48\n???: O=?, H=?, L=?, C=?, Vol=1684.39\n???: O=?, H=?, L=?, C=?, Vol=254.9\n???: O=?, H=?, L=?, C=?, Vol=198.78\n???: O=?, H=?, L=?, C=?, Vol=406.93\n???: O=?, H=?, L=?, C=?, Vol=846.6\n???: O=?, H=?, L=?, C=?, Vol=298.36\n???: O=?, H=?, L=?, C=?, Vol=103.02\n???: O=?, H=?, L=?, C=?, Vol=186.89\n???: O=?, H=?, L=?, C=?, Vol=167.3\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 01:33:44",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=1684.39\n???: O=?, H=?, L=?, C=?, Vol=254.9\n???: O=?, H=?, L=?, C=?, Vol=198.78\n???: O=?, H=?, L=?, C=?, Vol=406.93\n???: O=?, H=?, L=?, C=?, Vol=846.6\n???: O=?, H=?, L=?, C=?, Vol=298.36\n???: O=?, H=?, L=?, C=?, Vol=103.02\n???: O=?, H=?, L=?, C=?, Vol=186.89\n???: O=?, H=?, L=?, C=?, Vol=167.3\n???: O=?, H=?, L=?, C=?, Vol=152.31\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 01:38:46",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=254.9\n???: O=?, H=?, L=?, C=?, Vol=198.78\n???: O=?, H=?, L=?, C=?, Vol=406.93\n???: O=?, H=?, L=?, C=?, Vol=846.6\n???: O=?, H=?, L=?, C=?, Vol=298.36\n???: O=?, H=?, L=?, C=?, Vol=103.02\n???: O=?, H=?, L=?, C=?, Vol=186.89\n???: O=?, H=?, L=?, C=?, Vol=167.3\n???: O=?, H=?, L=?, C=?, Vol=152.31\n???: O=?, H=?, L=?, C=?, Vol=236.48\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 01:43:48",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=198.78\n???: O=?, H=?, L=?, C=?, Vol=406.93\n???: O=?, H=?, L=?, C=?, Vol=846.6\n???: O=?, H=?, L=?, C=?, Vol=298.36\n???: O=?, H=?, L=?, C=?, Vol=103.02\n???: O=?, H=?, L=?, C=?, Vol=186.89\n???: O=?, H=?, L=?, C=?, Vol=167.3\n???: O=?, H=?, L=?, C=?, Vol=152.31\n???: O=?, H=?, L=?, C=?, Vol=236.48\n???: O=?, H=?, L=?, C=?, Vol=255.87\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 01:48:52",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=406.93\n???: O=?, H=?, L=?, C=?, Vol=846.6\n???: O=?, H=?, L=?, C=?, Vol=298.36\n???: O=?, H=?, L=?, C=?, Vol=103.02\n???: O=?, H=?, L=?, C=?, Vol=186.89\n???: O=?, H=?, L=?, C=?, Vol=167.3\n???: O=?, H=?, L=?, C=?, Vol=152.31\n???: O=?, H=?, L=?, C=?, Vol=236.48\n???: O=?, H=?, L=?, C=?, Vol=255.87\n???: O=?, H=?, L=?, C=?, Vol=159.33\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 01:53:53",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=846.6\n???: O=?, H=?, L=?, C=?, Vol=298.36\n???: O=?, H=?, L=?, C=?, Vol=103.02\n???: O=?, H=?, L=?, C=?, Vol=186.89\n???: O=?, H=?, L=?, C=?, Vol=167.3\n???: O=?, H=?, L=?, C=?, Vol=152.31\n???: O=?, H=?, L=?, C=?, Vol=236.48\n???: O=?, H=?, L=?, C=?, Vol=255.87\n???: O=?, H=?, L=?, C=?, Vol=159.33\n???: O=?, H=?, L=?, C=?, Vol=188.88\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 01:58:56",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=298.36\n???: O=?, H=?, L=?, C=?, Vol=103.02\n???: O=?, H=?, L=?, C=?, Vol=186.89\n???: O=?, H=?, L=?, C=?, Vol=167.3\n???: O=?, H=?, L=?, C=?, Vol=152.31\n???: O=?, H=?, L=?, C=?, Vol=236.48\n???: O=?, H=?, L=?, C=?, Vol=255.87\n???: O=?, H=?, L=?, C=?, Vol=159.33\n???: O=?, H=?, L=?, C=?, Vol=188.88\n???: O=?, H=?, L=?, C=?, Vol=144.08\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 02:03:57",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=103.02\n???: O=?, H=?, L=?, C=?, Vol=186.89\n???: O=?, H=?, L=?, C=?, Vol=167.3\n???: O=?, H=?, L=?, C=?, Vol=152.31\n???: O=?, H=?, L=?, C=?, Vol=236.48\n???: O=?, H=?, L=?, C=?, Vol=255.87\n???: O=?, H=?, L=?, C=?, Vol=159.33\n???: O=?, H=?, L=?, C=?, Vol=188.88\n???: O=?, H=?, L=?, C=?, Vol=144.08\n???: O=?, H=?, L=?, C=?, Vol=155.79\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 02:09:00",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=186.89\n???: O=?, H=?, L=?, C=?, Vol=167.3\n???: O=?, H=?, L=?, C=?, Vol=152.31\n???: O=?, H=?, L=?, C=?, Vol=236.48\n???: O=?, H=?, L=?, C=?, Vol=255.87\n???: O=?, H=?, L=?, C=?, Vol=159.33\n???: O=?, H=?, L=?, C=?, Vol=188.88\n???: O=?, H=?, L=?, C=?, Vol=144.08\n???: O=?, H=?, L=?, C=?, Vol=155.79\n???: O=?, H=?, L=?, C=?, Vol=605.49\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 02:14:03",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=167.3\n???: O=?, H=?, L=?, C=?, Vol=152.31\n???: O=?, H=?, L=?, C=?, Vol=236.48\n???: O=?, H=?, L=?, C=?, Vol=255.87\n???: O=?, H=?, L=?, C=?, Vol=159.33\n???: O=?, H=?, L=?, C=?, Vol=188.88\n???: O=?, H=?, L=?, C=?, Vol=144.08\n???: O=?, H=?, L=?, C=?, Vol=155.79\n???: O=?, H=?, L=?, C=?, Vol=605.49\n???: O=?, H=?, L=?, C=?, Vol=187.83\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 02:19:05",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=152.31\n???: O=?, H=?, L=?, C=?, Vol=236.48\n???: O=?, H=?, L=?, C=?, Vol=255.87\n???: O=?, H=?, L=?, C=?, Vol=159.33\n???: O=?, H=?, L=?, C=?, Vol=188.88\n???: O=?, H=?, L=?, C=?, Vol=144.08\n???: O=?, H=?, L=?, C=?, Vol=155.79\n???: O=?, H=?, L=?, C=?, Vol=605.49\n???: O=?, H=?, L=?, C=?, Vol=187.83\n???: O=?, H=?, L=?, C=?, Vol=166.91\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 02:24:07",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=236.48\n???: O=?, H=?, L=?, C=?, Vol=255.87\n???: O=?, H=?, L=?, C=?, Vol=159.33\n???: O=?, H=?, L=?, C=?, Vol=188.88\n???: O=?, H=?, L=?, C=?, Vol=144.08\n???: O=?, H=?, L=?, C=?, Vol=155.79\n???: O=?, H=?, L=?, C=?, Vol=605.49\n???: O=?, H=?, L=?, C=?, Vol=187.83\n???: O=?, H=?, L=?, C=?, Vol=166.91\n???: O=?, H=?, L=?, C=?, Vol=215.78\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 02:29:08",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=255.87\n???: O=?, H=?, L=?, C=?, Vol=159.33\n???: O=?, H=?, L=?, C=?, Vol=188.88\n???: O=?, H=?, L=?, C=?, Vol=144.08\n???: O=?, H=?, L=?, C=?, Vol=155.79\n???: O=?, H=?, L=?, C=?, Vol=605.49\n???: O=?, H=?, L=?, C=?, Vol=187.83\n???: O=?, H=?, L=?, C=?, Vol=166.91\n???: O=?, H=?, L=?, C=?, Vol=215.78\n???: O=?, H=?, L=?, C=?, Vol=190.78\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 02:34:10",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=159.33\n???: O=?, H=?, L=?, C=?, Vol=188.88\n???: O=?, H=?, L=?, C=?, Vol=144.08\n???: O=?, H=?, L=?, C=?, Vol=155.79\n???: O=?, H=?, L=?, C=?, Vol=605.49\n???: O=?, H=?, L=?, C=?, Vol=187.83\n???: O=?, H=?, L=?, C=?, Vol=166.91\n???: O=?, H=?, L=?, C=?, Vol=215.78\n???: O=?, H=?, L=?, C=?, Vol=190.78\n???: O=?, H=?, L=?, C=?, Vol=187.47\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 02:39:13",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=188.88\n???: O=?, H=?, L=?, C=?, Vol=144.08\n???: O=?, H=?, L=?, C=?, Vol=155.79\n???: O=?, H=?, L=?, C=?, Vol=605.49\n???: O=?, H=?, L=?, C=?, Vol=187.83\n???: O=?, H=?, L=?, C=?, Vol=166.91\n???: O=?, H=?, L=?, C=?, Vol=215.78\n???: O=?, H=?, L=?, C=?, Vol=190.78\n???: O=?, H=?, L=?, C=?, Vol=187.47\n???: O=?, H=?, L=?, C=?, Vol=201.11\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 02:44:15",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=144.08\n???: O=?, H=?, L=?, C=?, Vol=155.79\n???: O=?, H=?, L=?, C=?, Vol=605.49\n???: O=?, H=?, L=?, C=?, Vol=187.83\n???: O=?, H=?, L=?, C=?, Vol=166.91\n???: O=?, H=?, L=?, C=?, Vol=215.78\n???: O=?, H=?, L=?, C=?, Vol=190.78\n???: O=?, H=?, L=?, C=?, Vol=187.47\n???: O=?, H=?, L=?, C=?, Vol=201.11\n???: O=?, H=?, L=?, C=?, Vol=1684.98\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 02:49:17",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=155.79\n???: O=?, H=?, L=?, C=?, Vol=605.49\n???: O=?, H=?, L=?, C=?, Vol=187.83\n???: O=?, H=?, L=?, C=?, Vol=166.91\n???: O=?, H=?, L=?, C=?, Vol=215.78\n???: O=?, H=?, L=?, C=?, Vol=190.78\n???: O=?, H=?, L=?, C=?, Vol=187.47\n???: O=?, H=?, L=?, C=?, Vol=201.11\n???: O=?, H=?, L=?, C=?, Vol=1684.98\n???: O=?, H=?, L=?, C=?, Vol=554.17\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 02:54:19",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=605.49\n???: O=?, H=?, L=?, C=?, Vol=187.83\n???: O=?, H=?, L=?, C=?, Vol=166.91\n???: O=?, H=?, L=?, C=?, Vol=215.78\n???: O=?, H=?, L=?, C=?, Vol=190.78\n???: O=?, H=?, L=?, C=?, Vol=187.47\n???: O=?, H=?, L=?, C=?, Vol=201.11\n???: O=?, H=?, L=?, C=?, Vol=1684.98\n???: O=?, H=?, L=?, C=?, Vol=554.17\n???: O=?, H=?, L=?, C=?, Vol=218.54\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 02:59:21",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=187.83\n???: O=?, H=?, L=?, C=?, Vol=166.91\n???: O=?, H=?, L=?, C=?, Vol=215.78\n???: O=?, H=?, L=?, C=?, Vol=190.78\n???: O=?, H=?, L=?, C=?, Vol=187.47\n???: O=?, H=?, L=?, C=?, Vol=201.11\n???: O=?, H=?, L=?, C=?, Vol=1684.98\n???: O=?, H=?, L=?, C=?, Vol=554.17\n???: O=?, H=?, L=?, C=?, Vol=218.54\n???: O=?, H=?, L=?, C=?, Vol=628.94\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 03:04:24",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=166.91\n???: O=?, H=?, L=?, C=?, Vol=215.78\n???: O=?, H=?, L=?, C=?, Vol=190.78\n???: O=?, H=?, L=?, C=?, Vol=187.47\n???: O=?, H=?, L=?, C=?, Vol=201.11\n???: O=?, H=?, L=?, C=?, Vol=1684.98\n???: O=?, H=?, L=?, C=?, Vol=554.17\n???: O=?, H=?, L=?, C=?, Vol=218.54\n???: O=?, H=?, L=?, C=?, Vol=628.94\n???: O=?, H=?, L=?, C=?, Vol=755.14\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 03:09:26",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=215.78\n???: O=?, H=?, L=?, C=?, Vol=190.78\n???: O=?, H=?, L=?, C=?, Vol=187.47\n???: O=?, H=?, L=?, C=?, Vol=201.11\n???: O=?, H=?, L=?, C=?, Vol=1684.98\n???: O=?, H=?, L=?, C=?, Vol=554.17\n???: O=?, H=?, L=?, C=?, Vol=218.54\n???: O=?, H=?, L=?, C=?, Vol=628.94\n???: O=?, H=?, L=?, C=?, Vol=755.14\n???: O=?, H=?, L=?, C=?, Vol=2092.95\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 03:14:28",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=190.78\n???: O=?, H=?, L=?, C=?, Vol=187.47\n???: O=?, H=?, L=?, C=?, Vol=201.11\n???: O=?, H=?, L=?, C=?, Vol=1684.98\n???: O=?, H=?, L=?, C=?, Vol=554.17\n???: O=?, H=?, L=?, C=?, Vol=218.54\n???: O=?, H=?, L=?, C=?, Vol=628.94\n???: O=?, H=?, L=?, C=?, Vol=755.14\n???: O=?, H=?, L=?, C=?, Vol=2092.95\n???: O=?, H=?, L=?, C=?, Vol=502.53\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 03:19:30",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=187.47\n???: O=?, H=?, L=?, C=?, Vol=201.11\n???: O=?, H=?, L=?, C=?, Vol=1684.98\n???: O=?, H=?, L=?, C=?, Vol=554.17\n???: O=?, H=?, L=?, C=?, Vol=218.54\n???: O=?, H=?, L=?, C=?, Vol=628.94\n???: O=?, H=?, L=?, C=?, Vol=755.14\n???: O=?, H=?, L=?, C=?, Vol=2092.95\n???: O=?, H=?, L=?, C=?, Vol=502.53\n???: O=?, H=?, L=?, C=?, Vol=3030.03\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 03:24:32",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=201.11\n???: O=?, H=?, L=?, C=?, Vol=1684.98\n???: O=?, H=?, L=?, C=?, Vol=554.17\n???: O=?, H=?, L=?, C=?, Vol=218.54\n???: O=?, H=?, L=?, C=?, Vol=628.94\n???: O=?, H=?, L=?, C=?, Vol=755.14\n???: O=?, H=?, L=?, C=?, Vol=2092.95\n???: O=?, H=?, L=?, C=?, Vol=502.53\n???: O=?, H=?, L=?, C=?, Vol=3030.03\n???: O=?, H=?, L=?, C=?, Vol=612.2\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 03:29:34",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=1684.98\n???: O=?, H=?, L=?, C=?, Vol=554.17\n???: O=?, H=?, L=?, C=?, Vol=218.54\n???: O=?, H=?, L=?, C=?, Vol=628.94\n???: O=?, H=?, L=?, C=?, Vol=755.14\n???: O=?, H=?, L=?, C=?, Vol=2092.95\n???: O=?, H=?, L=?, C=?, Vol=502.53\n???: O=?, H=?, L=?, C=?, Vol=3030.03\n???: O=?, H=?, L=?, C=?, Vol=612.2\n???: O=?, H=?, L=?, C=?, Vol=1064.53\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 03:34:36",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=554.17\n???: O=?, H=?, L=?, C=?, Vol=218.54\n???: O=?, H=?, L=?, C=?, Vol=628.94\n???: O=?, H=?, L=?, C=?, Vol=755.14\n???: O=?, H=?, L=?, C=?, Vol=2092.95\n???: O=?, H=?, L=?, C=?, Vol=502.53\n???: O=?, H=?, L=?, C=?, Vol=3030.03\n???: O=?, H=?, L=?, C=?, Vol=612.2\n???: O=?, H=?, L=?, C=?, Vol=1064.53\n???: O=?, H=?, L=?, C=?, Vol=848.94\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 03:39:37",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=218.54\n???: O=?, H=?, L=?, C=?, Vol=628.94\n???: O=?, H=?, L=?, C=?, Vol=755.14\n???: O=?, H=?, L=?, C=?, Vol=2092.95\n???: O=?, H=?, L=?, C=?, Vol=502.53\n???: O=?, H=?, L=?, C=?, Vol=3030.03\n???: O=?, H=?, L=?, C=?, Vol=612.2\n???: O=?, H=?, L=?, C=?, Vol=1064.53\n???: O=?, H=?, L=?, C=?, Vol=848.94\n???: O=?, H=?, L=?, C=?, Vol=1389.28\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 03:44:39",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=628.94\n???: O=?, H=?, L=?, C=?, Vol=755.14\n???: O=?, H=?, L=?, C=?, Vol=2092.95\n???: O=?, H=?, L=?, C=?, Vol=502.53\n???: O=?, H=?, L=?, C=?, Vol=3030.03\n???: O=?, H=?, L=?, C=?, Vol=612.2\n???: O=?, H=?, L=?, C=?, Vol=1064.53\n???: O=?, H=?, L=?, C=?, Vol=848.94\n???: O=?, H=?, L=?, C=?, Vol=1389.28\n???: O=?, H=?, L=?, C=?, Vol=693.28\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 03:49:41",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=755.14\n???: O=?, H=?, L=?, C=?, Vol=2092.95\n???: O=?, H=?, L=?, C=?, Vol=502.53\n???: O=?, H=?, L=?, C=?, Vol=3030.03\n???: O=?, H=?, L=?, C=?, Vol=612.2\n???: O=?, H=?, L=?, C=?, Vol=1064.53\n???: O=?, H=?, L=?, C=?, Vol=848.94\n???: O=?, H=?, L=?, C=?, Vol=1389.28\n???: O=?, H=?, L=?, C=?, Vol=693.28\n???: O=?, H=?, L=?, C=?, Vol=740.06\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 03:54:43",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=2092.95\n???: O=?, H=?, L=?, C=?, Vol=502.53\n???: O=?, H=?, L=?, C=?, Vol=3030.03\n???: O=?, H=?, L=?, C=?, Vol=612.2\n???: O=?, H=?, L=?, C=?, Vol=1064.53\n???: O=?, H=?, L=?, C=?, Vol=848.94\n???: O=?, H=?, L=?, C=?, Vol=1389.28\n???: O=?, H=?, L=?, C=?, Vol=693.28\n???: O=?, H=?, L=?, C=?, Vol=740.06\n???: O=?, H=?, L=?, C=?, Vol=846.93\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 03:59:45",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=502.53\n???: O=?, H=?, L=?, C=?, Vol=3030.03\n???: O=?, H=?, L=?, C=?, Vol=612.2\n???: O=?, H=?, L=?, C=?, Vol=1064.53\n???: O=?, H=?, L=?, C=?, Vol=848.94\n???: O=?, H=?, L=?, C=?, Vol=1389.28\n???: O=?, H=?, L=?, C=?, Vol=693.28\n???: O=?, H=?, L=?, C=?, Vol=740.06\n???: O=?, H=?, L=?, C=?, Vol=846.93\n???: O=?, H=?, L=?, C=?, Vol=578.22\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 04:04:46",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=3030.03\n???: O=?, H=?, L=?, C=?, Vol=612.2\n???: O=?, H=?, L=?, C=?, Vol=1064.53\n???: O=?, H=?, L=?, C=?, Vol=848.94\n???: O=?, H=?, L=?, C=?, Vol=1389.28\n???: O=?, H=?, L=?, C=?, Vol=693.28\n???: O=?, H=?, L=?, C=?, Vol=740.06\n???: O=?, H=?, L=?, C=?, Vol=846.93\n???: O=?, H=?, L=?, C=?, Vol=578.22\n???: O=?, H=?, L=?, C=?, Vol=937.75\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 04:09:49",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=612.2\n???: O=?, H=?, L=?, C=?, Vol=1064.53\n???: O=?, H=?, L=?, C=?, Vol=848.94\n???: O=?, H=?, L=?, C=?, Vol=1389.28\n???: O=?, H=?, L=?, C=?, Vol=693.28\n???: O=?, H=?, L=?, C=?, Vol=740.06\n???: O=?, H=?, L=?, C=?, Vol=846.93\n???: O=?, H=?, L=?, C=?, Vol=578.22\n???: O=?, H=?, L=?, C=?, Vol=937.75\n???: O=?, H=?, L=?, C=?, Vol=1130.71\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 04:14:50",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=1064.53\n???: O=?, H=?, L=?, C=?, Vol=848.94\n???: O=?, H=?, L=?, C=?, Vol=1389.28\n???: O=?, H=?, L=?, C=?, Vol=693.28\n???: O=?, H=?, L=?, C=?, Vol=740.06\n???: O=?, H=?, L=?, C=?, Vol=846.93\n???: O=?, H=?, L=?, C=?, Vol=578.22\n???: O=?, H=?, L=?, C=?, Vol=937.75\n???: O=?, H=?, L=?, C=?, Vol=1130.71\n???: O=?, H=?, L=?, C=?, Vol=1029.18\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 04:19:52",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=848.94\n???: O=?, H=?, L=?, C=?, Vol=1389.28\n???: O=?, H=?, L=?, C=?, Vol=693.28\n???: O=?, H=?, L=?, C=?, Vol=740.06\n???: O=?, H=?, L=?, C=?, Vol=846.93\n???: O=?, H=?, L=?, C=?, Vol=578.22\n???: O=?, H=?, L=?, C=?, Vol=937.75\n???: O=?, H=?, L=?, C=?, Vol=1130.71\n???: O=?, H=?, L=?, C=?, Vol=1029.18\n???: O=?, H=?, L=?, C=?, Vol=1715.97\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 04:24:55",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=1389.28\n???: O=?, H=?, L=?, C=?, Vol=693.28\n???: O=?, H=?, L=?, C=?, Vol=740.06\n???: O=?, H=?, L=?, C=?, Vol=846.93\n???: O=?, H=?, L=?, C=?, Vol=578.22\n???: O=?, H=?, L=?, C=?, Vol=937.75\n???: O=?, H=?, L=?, C=?, Vol=1130.71\n???: O=?, H=?, L=?, C=?, Vol=1029.18\n???: O=?, H=?, L=?, C=?, Vol=1715.97\n???: O=?, H=?, L=?, C=?, Vol=255.56\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 04:29:56",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=693.28\n???: O=?, H=?, L=?, C=?, Vol=740.06\n???: O=?, H=?, L=?, C=?, Vol=846.93\n???: O=?, H=?, L=?, C=?, Vol=578.22\n???: O=?, H=?, L=?, C=?, Vol=937.75\n???: O=?, H=?, L=?, C=?, Vol=1130.71\n???: O=?, H=?, L=?, C=?, Vol=1029.18\n???: O=?, H=?, L=?, C=?, Vol=1715.97\n???: O=?, H=?, L=?, C=?, Vol=255.56\n???: O=?, H=?, L=?, C=?, Vol=1102.43\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 04:34:58",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=740.06\n???: O=?, H=?, L=?, C=?, Vol=846.93\n???: O=?, H=?, L=?, C=?, Vol=578.22\n???: O=?, H=?, L=?, C=?, Vol=937.75\n???: O=?, H=?, L=?, C=?, Vol=1130.71\n???: O=?, H=?, L=?, C=?, Vol=1029.18\n???: O=?, H=?, L=?, C=?, Vol=1715.97\n???: O=?, H=?, L=?, C=?, Vol=255.56\n???: O=?, H=?, L=?, C=?, Vol=1102.43\n???: O=?, H=?, L=?, C=?, Vol=746.08\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 04:40:01",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=846.93\n???: O=?, H=?, L=?, C=?, Vol=578.22\n???: O=?, H=?, L=?, C=?, Vol=937.75\n???: O=?, H=?, L=?, C=?, Vol=1130.71\n???: O=?, H=?, L=?, C=?, Vol=1029.18\n???: O=?, H=?, L=?, C=?, Vol=1715.97\n???: O=?, H=?, L=?, C=?, Vol=255.56\n???: O=?, H=?, L=?, C=?, Vol=1102.43\n???: O=?, H=?, L=?, C=?, Vol=746.08\n???: O=?, H=?, L=?, C=?, Vol=359.56\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 04:45:02",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=578.22\n???: O=?, H=?, L=?, C=?, Vol=937.75\n???: O=?, H=?, L=?, C=?, Vol=1130.71\n???: O=?, H=?, L=?, C=?, Vol=1029.18\n???: O=?, H=?, L=?, C=?, Vol=1715.97\n???: O=?, H=?, L=?, C=?, Vol=255.56\n???: O=?, H=?, L=?, C=?, Vol=1102.43\n???: O=?, H=?, L=?, C=?, Vol=746.08\n???: O=?, H=?, L=?, C=?, Vol=359.56\n???: O=?, H=?, L=?, C=?, Vol=405.09\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 04:50:06",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=937.75\n???: O=?, H=?, L=?, C=?, Vol=1130.71\n???: O=?, H=?, L=?, C=?, Vol=1029.18\n???: O=?, H=?, L=?, C=?, Vol=1715.97\n???: O=?, H=?, L=?, C=?, Vol=255.56\n???: O=?, H=?, L=?, C=?, Vol=1102.43\n???: O=?, H=?, L=?, C=?, Vol=746.08\n???: O=?, H=?, L=?, C=?, Vol=359.56\n???: O=?, H=?, L=?, C=?, Vol=405.09\n???: O=?, H=?, L=?, C=?, Vol=0.05\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 04:55:08",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=1130.71\n???: O=?, H=?, L=?, C=?, Vol=1029.18\n???: O=?, H=?, L=?, C=?, Vol=1715.97\n???: O=?, H=?, L=?, C=?, Vol=255.56\n???: O=?, H=?, L=?, C=?, Vol=1102.43\n???: O=?, H=?, L=?, C=?, Vol=746.08\n???: O=?, H=?, L=?, C=?, Vol=359.56\n???: O=?, H=?, L=?, C=?, Vol=405.09\n???: O=?, H=?, L=?, C=?, Vol=0.05\n???: O=?, H=?, L=?, C=?, Vol=0.21\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 05:00:10",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=1029.18\n???: O=?, H=?, L=?, C=?, Vol=1715.97\n???: O=?, H=?, L=?, C=?, Vol=255.56\n???: O=?, H=?, L=?, C=?, Vol=1102.43\n???: O=?, H=?, L=?, C=?, Vol=746.08\n???: O=?, H=?, L=?, C=?, Vol=359.56\n???: O=?, H=?, L=?, C=?, Vol=405.09\n???: O=?, H=?, L=?, C=?, Vol=0.05\n???: O=?, H=?, L=?, C=?, Vol=0.21\n???: O=?, H=?, L=?, C=?, Vol=61.69\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 05:05:12",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=1715.97\n???: O=?, H=?, L=?, C=?, Vol=255.56\n???: O=?, H=?, L=?, C=?, Vol=1102.43\n???: O=?, H=?, L=?, C=?, Vol=746.08\n???: O=?, H=?, L=?, C=?, Vol=359.56\n???: O=?, H=?, L=?, C=?, Vol=405.09\n???: O=?, H=?, L=?, C=?, Vol=0.05\n???: O=?, H=?, L=?, C=?, Vol=0.21\n???: O=?, H=?, L=?, C=?, Vol=61.69\n???: O=?, H=?, L=?, C=?, Vol=54.61\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 05:10:22",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=255.56\n???: O=?, H=?, L=?, C=?, Vol=1102.43\n???: O=?, H=?, L=?, C=?, Vol=746.08\n???: O=?, H=?, L=?, C=?, Vol=359.56\n???: O=?, H=?, L=?, C=?, Vol=405.09\n???: O=?, H=?, L=?, C=?, Vol=0.05\n???: O=?, H=?, L=?, C=?, Vol=0.21\n???: O=?, H=?, L=?, C=?, Vol=61.69\n???: O=?, H=?, L=?, C=?, Vol=54.61\n???: O=?, H=?, L=?, C=?, Vol=82.81\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 05:15:24",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=1102.43\n???: O=?, H=?, L=?, C=?, Vol=746.08\n???: O=?, H=?, L=?, C=?, Vol=359.56\n???: O=?, H=?, L=?, C=?, Vol=405.09\n???: O=?, H=?, L=?, C=?, Vol=0.05\n???: O=?, H=?, L=?, C=?, Vol=0.21\n???: O=?, H=?, L=?, C=?, Vol=61.69\n???: O=?, H=?, L=?, C=?, Vol=54.61\n???: O=?, H=?, L=?, C=?, Vol=82.81\n???: O=?, H=?, L=?, C=?, Vol=101.14\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 05:20:26",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=746.08\n???: O=?, H=?, L=?, C=?, Vol=359.56\n???: O=?, H=?, L=?, C=?, Vol=405.09\n???: O=?, H=?, L=?, C=?, Vol=0.05\n???: O=?, H=?, L=?, C=?, Vol=0.21\n???: O=?, H=?, L=?, C=?, Vol=61.69\n???: O=?, H=?, L=?, C=?, Vol=54.61\n???: O=?, H=?, L=?, C=?, Vol=82.81\n???: O=?, H=?, L=?, C=?, Vol=101.14\n???: O=?, H=?, L=?, C=?, Vol=62.63\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 05:25:27",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=359.56\n???: O=?, H=?, L=?, C=?, Vol=405.09\n???: O=?, H=?, L=?, C=?, Vol=0.05\n???: O=?, H=?, L=?, C=?, Vol=0.21\n???: O=?, H=?, L=?, C=?, Vol=61.69\n???: O=?, H=?, L=?, C=?, Vol=54.61\n???: O=?, H=?, L=?, C=?, Vol=82.81\n???: O=?, H=?, L=?, C=?, Vol=101.14\n???: O=?, H=?, L=?, C=?, Vol=62.63\n???: O=?, H=?, L=?, C=?, Vol=33.15\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 05:30:29",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=405.09\n???: O=?, H=?, L=?, C=?, Vol=0.05\n???: O=?, H=?, L=?, C=?, Vol=0.21\n???: O=?, H=?, L=?, C=?, Vol=61.69\n???: O=?, H=?, L=?, C=?, Vol=54.61\n???: O=?, H=?, L=?, C=?, Vol=82.81\n???: O=?, H=?, L=?, C=?, Vol=101.14\n???: O=?, H=?, L=?, C=?, Vol=62.63\n???: O=?, H=?, L=?, C=?, Vol=33.15\n???: O=?, H=?, L=?, C=?, Vol=11.35\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 05:35:31",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=0.05\n???: O=?, H=?, L=?, C=?, Vol=0.21\n???: O=?, H=?, L=?, C=?, Vol=61.69\n???: O=?, H=?, L=?, C=?, Vol=54.61\n???: O=?, H=?, L=?, C=?, Vol=82.81\n???: O=?, H=?, L=?, C=?, Vol=101.14\n???: O=?, H=?, L=?, C=?, Vol=62.63\n???: O=?, H=?, L=?, C=?, Vol=33.15\n???: O=?, H=?, L=?, C=?, Vol=11.35\n???: O=?, H=?, L=?, C=?, Vol=13.42\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 05:40:34",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=0.21\n???: O=?, H=?, L=?, C=?, Vol=61.69\n???: O=?, H=?, L=?, C=?, Vol=54.61\n???: O=?, H=?, L=?, C=?, Vol=82.81\n???: O=?, H=?, L=?, C=?, Vol=101.14\n???: O=?, H=?, L=?, C=?, Vol=62.63\n???: O=?, H=?, L=?, C=?, Vol=33.15\n???: O=?, H=?, L=?, C=?, Vol=11.35\n???: O=?, H=?, L=?, C=?, Vol=13.42\n???: O=?, H=?, L=?, C=?, Vol=14.98\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 05:45:35",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=61.69\n???: O=?, H=?, L=?, C=?, Vol=54.61\n???: O=?, H=?, L=?, C=?, Vol=82.81\n???: O=?, H=?, L=?, C=?, Vol=101.14\n???: O=?, H=?, L=?, C=?, Vol=62.63\n???: O=?, H=?, L=?, C=?, Vol=33.15\n???: O=?, H=?, L=?, C=?, Vol=11.35\n???: O=?, H=?, L=?, C=?, Vol=13.42\n???: O=?, H=?, L=?, C=?, Vol=14.98\n???: O=?, H=?, L=?, C=?, Vol=88.49\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 05:50:38",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=54.61\n???: O=?, H=?, L=?, C=?, Vol=82.81\n???: O=?, H=?, L=?, C=?, Vol=101.14\n???: O=?, H=?, L=?, C=?, Vol=62.63\n???: O=?, H=?, L=?, C=?, Vol=33.15\n???: O=?, H=?, L=?, C=?, Vol=11.35\n???: O=?, H=?, L=?, C=?, Vol=13.42\n???: O=?, H=?, L=?, C=?, Vol=14.98\n???: O=?, H=?, L=?, C=?, Vol=88.49\n???: O=?, H=?, L=?, C=?, Vol=22.48\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 05:55:40",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=82.81\n???: O=?, H=?, L=?, C=?, Vol=101.14\n???: O=?, H=?, L=?, C=?, Vol=62.63\n???: O=?, H=?, L=?, C=?, Vol=33.15\n???: O=?, H=?, L=?, C=?, Vol=11.35\n???: O=?, H=?, L=?, C=?, Vol=13.42\n???: O=?, H=?, L=?, C=?, Vol=14.98\n???: O=?, H=?, L=?, C=?, Vol=88.49\n???: O=?, H=?, L=?, C=?, Vol=22.48\n???: O=?, H=?, L=?, C=?, Vol=31.57\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 06:00:43",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=101.14\n???: O=?, H=?, L=?, C=?, Vol=62.63\n???: O=?, H=?, L=?, C=?, Vol=33.15\n???: O=?, H=?, L=?, C=?, Vol=11.35\n???: O=?, H=?, L=?, C=?, Vol=13.42\n???: O=?, H=?, L=?, C=?, Vol=14.98\n???: O=?, H=?, L=?, C=?, Vol=88.49\n???: O=?, H=?, L=?, C=?, Vol=22.48\n???: O=?, H=?, L=?, C=?, Vol=31.57\n???: O=?, H=?, L=?, C=?, Vol=31.45\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  },
+  {
+    "time": "2025-06-16 06:05:46",
+    "prompt": "\nDữ liệu kỹ thuật:\n• 15m: RSI: ?, EMA: ?, MACD: ?\n• 1h: RSI: ?, EMA: ?, MACD: ?\n• 4h: RSI: ?, EMA: ?, MACD: ?\n\nLịch sử 10 nến gần nhất:\n???: O=?, H=?, L=?, C=?, Vol=62.63\n???: O=?, H=?, L=?, C=?, Vol=33.15\n???: O=?, H=?, L=?, C=?, Vol=11.35\n???: O=?, H=?, L=?, C=?, Vol=13.42\n???: O=?, H=?, L=?, C=?, Vol=14.98\n???: O=?, H=?, L=?, C=?, Vol=88.49\n???: O=?, H=?, L=?, C=?, Vol=22.48\n???: O=?, H=?, L=?, C=?, Vol=31.57\n???: O=?, H=?, L=?, C=?, Vol=31.45\n???: O=?, H=?, L=?, C=?, Vol=145.59\n\nKhông có vị thế hiện tại.\n\nHãy trả lời bằng JSON gồm: action (long, short, close_long, close_short, pause), reason, confidence (0–1), optional: risk_adjustment (float), exit_reason (str).\n",
+    "gpt_reply": {
+      "action": "none",
+      "confidence": 0.5
+    }
+  }
+]

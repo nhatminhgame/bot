@@ -1,0 +1,306 @@
+nohup: ignoring input
+[2025-06-16 00:08:09] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 00:08:09] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:08:09] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:08:09] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 00:13:11] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 00:13:11] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:13:11] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:13:11] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 00:18:13] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 00:18:13] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:18:13] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:18:13] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 00:23:16] GPT RAW: {
+  "action": "none",
+  "confidence": 0.5
+}
+[2025-06-16 00:23:16] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:23:16] GPT RAW: {
+  "action": "none",
+  "confidence": 0.5
+}
+✅ Đã gửi Discord: [2025-06-16 00:23:16] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 00:28:19] GPT RAW: {
+  "action": "none",
+  "confidence": 0.5
+}
+[2025-06-16 00:28:19] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:28:19] GPT RAW: {
+  "action": "none",
+  "confidence": 0.5
+}
+✅ Đã gửi Discord: [2025-06-16 00:28:19] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 00:33:20] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 00:33:20] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:33:20] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:33:20] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 00:38:22] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 00:38:22] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:38:22] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:38:22] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 00:43:23] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 00:43:23] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:43:23] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:43:23] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 00:48:26] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 00:48:26] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:48:26] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:48:26] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 00:53:28] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 00:53:28] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:53:28] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:53:28] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 00:58:30] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 00:58:30] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:58:30] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 00:58:30] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 01:03:32] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 01:03:32] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:03:32] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:03:32] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 01:08:34] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 01:08:34] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:08:34] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:08:34] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 01:13:36] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 01:13:36] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:13:36] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:13:36] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 01:18:38] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 01:18:38] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:18:38] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:18:38] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 01:23:40] GPT RAW: {
+  "action": "none",
+  "confidence": 0.5
+}
+[2025-06-16 01:23:40] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:23:40] GPT RAW: {
+  "action": "none",
+  "confidence": 0.5
+}
+✅ Đã gửi Discord: [2025-06-16 01:23:40] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 01:28:42] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 01:28:42] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:28:42] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:28:42] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 01:33:44] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 01:33:44] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:33:44] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:33:44] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 01:38:46] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 01:38:46] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:38:46] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:38:46] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 01:43:48] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 01:43:48] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:43:48] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:43:48] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 01:48:52] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 01:48:52] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:48:52] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:48:52] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 01:53:53] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 01:53:53] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:53:53] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:53:53] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 01:58:56] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 01:58:56] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:58:56] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 01:58:56] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 02:03:57] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 02:03:57] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:03:57] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:03:57] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 02:09:00] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 02:09:00] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:09:00] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:09:00] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 02:14:03] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 02:14:03] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:14:03] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:14:03] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 02:19:05] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 02:19:05] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:19:05] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:19:05] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 02:24:07] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 02:24:07] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:24:07] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:24:07] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 02:29:08] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 02:29:08] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:29:08] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:29:08] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 02:34:10] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 02:34:10] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:34:10] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:34:10] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 02:39:13] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 02:39:13] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:39:13] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:39:13] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 02:44:15] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 02:44:15] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:44:15] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:44:15] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 02:49:17] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 02:49:17] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:49:17] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:49:17] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 02:54:19] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 02:54:19] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:54:19] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:54:19] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 02:59:21] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 02:59:21] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:59:21] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 02:59:21] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 03:04:24] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 03:04:24] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:04:24] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:04:24] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 03:09:26] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 03:09:26] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:09:26] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:09:26] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 03:14:28] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 03:14:28] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:14:28] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:14:28] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 03:19:30] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 03:19:30] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:19:30] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:19:30] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 03:24:32] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 03:24:32] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:24:32] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:24:32] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 03:29:34] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 03:29:34] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:29:34] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:29:34] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 03:34:36] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 03:34:36] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:34:36] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:34:36] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 03:39:37] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 03:39:37] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:39:37] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:39:37] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 03:44:39] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 03:44:39] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:44:39] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:44:39] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 03:49:41] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 03:49:41] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:49:41] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:49:41] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 03:54:43] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 03:54:43] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:54:43] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:54:43] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 03:59:45] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 03:59:45] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:59:45] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 03:59:45] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 04:04:46] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 04:04:46] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:04:46] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:04:46] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 04:09:49] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 04:09:49] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:09:49] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:09:49] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 04:14:50] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 04:14:50] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:14:50] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:14:50] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 04:19:52] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 04:19:52] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:19:52] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:19:52] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 04:24:55] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 04:24:55] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:24:55] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:24:55] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 04:29:56] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 04:29:56] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:29:56] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:29:56] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 04:34:58] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 04:34:58] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:34:58] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:34:58] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 04:40:01] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 04:40:01] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:40:01] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:40:01] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 04:45:02] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 04:45:02] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:45:02] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:45:02] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 04:50:06] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 04:50:06] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:50:06] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:50:06] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 04:55:08] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 04:55:08] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:55:08] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 04:55:08] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 05:00:10] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 05:00:10] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:00:10] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:00:10] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 05:05:12] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 05:05:12] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:05:12] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:05:12] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 05:10:22] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 05:10:22] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:10:22] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:10:22] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 05:15:24] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 05:15:24] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:15:24] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:15:24] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 05:20:26] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 05:20:26] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:20:26] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:20:26] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 05:25:27] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 05:25:27] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:25:27] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:25:27] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 05:30:29] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 05:30:29] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:30:29] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:30:29] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 05:35:31] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 05:35:31] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:35:31] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:35:31] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 05:40:34] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 05:40:34] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:40:34] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:40:34] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 05:45:35] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 05:45:35] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:45:35] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:45:35] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 05:50:38] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 05:50:38] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:50:38] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:50:38] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 05:55:40] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 05:55:40] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:55:40] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 05:55:40] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 06:00:43] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 06:00:43] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 06:00:43] GPT RAW: {"action": "none", "confidence": 0.5}
+✅ Đã gửi Discord: [2025-06-16 06:00:43] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 06:05:46] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 06:05:46] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+✅ Đã gửi Discord: [2025-06-16 06:05:46] GPT RAW: {"action": "none", "confidence": 0.5}
