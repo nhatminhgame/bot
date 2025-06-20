@@ -1,0 +1,31 @@
+[2025-06-15 21:51:30] LỖI: 'time'
+[2025-06-15 21:56:27] LỖI: 'time'
+[2025-06-15 22:03:32] LỖI: 'time'
+[2025-06-15 22:07:36] LỖI: 'time'
+[2025-06-15 22:13:33] LỖI: 'time'
+[2025-06-15 22:15:42] LỖI: 'time'
+[2025-06-15 22:16:40] LỖI: 'time'
+[2025-06-15 22:18:58] ❌ Lỗi GPT: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+[2025-06-15 22:18:58] GPT trả lời: {'action': 'none', 'confidence': 0.0, 'reason': 'api_error'}
+[2025-06-15 22:30:02] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-15 22:30:02] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-15 22:32:25] GPT RAW: ```json
+{"action": "none", "confidence": 0.5}
+```
+[2025-06-15 22:32:25]  GPT trả về sai định dạng: Expecting value: line 1 column 1 (char 0)
+[2025-06-15 22:32:25] GPT trả lời: {'action': 'none', 'confidence': 0.0, 'reason': 'format_error'}
+[2025-06-15 22:35:18] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-15 22:35:18] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 00:01:34] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 00:01:34] GPT trả lời: {'action': 'none', 'confidence': 0.5}
+[2025-06-16 00:04:06] GPT RAW: {"action": "none", "confidence": 0.5}
+[2025-06-16 00:04:06] GPT trả lời: {'action': 'none', 'confidence': 0.5}

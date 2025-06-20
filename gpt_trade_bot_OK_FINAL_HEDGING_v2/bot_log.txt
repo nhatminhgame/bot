@@ -1,0 +1,4 @@
+nohup: ignoring input
+/root/gpt_trade_bot_ready_to_run/gpt/gpt_advisor.py:66: RuntimeWarning: coroutine 'log_info' was never awaited
+  log_info(" Đã vượt giới hạn GPT daily")
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback

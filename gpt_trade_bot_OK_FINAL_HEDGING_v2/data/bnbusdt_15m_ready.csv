@@ -1,0 +1,2 @@
+close,volume,rsi,macd,macd_signal,ema_fast,ema_slow,volatility_bbh,ai_tp_long,ai_tp_short,breakout_score,risk_score,trend_1h,trend_4h
+528.1,123456.0,54.2,0.0011,0.0009,527.5,525.3,0.015,61.5,38.4,0.74,0.35,up,neutral
